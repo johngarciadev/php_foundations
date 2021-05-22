@@ -4,11 +4,11 @@
 
 ---
 
-# PHP Foundations
+## PHP Fácil y Práctico
 
-This repository will have scripts related to basics exercises in PHP programming languages.
+This repository contains exercises based in a video class from Udemy.
 
 ## Authors
 
 John Garcia
-[@johngarciadev](https://twitter.com/johngarciadev) 
+[@johngarciadev](https://twitter.com/johngarciadev)
